@@ -1,3 +1,4 @@
+[![@yogiraj587's Holopin board](https://holopin.me/yogiraj587)](https://holopin.io/@yogiraj587)
 <h1 align="center">Hi 👋, I'm Bhagavatula Yogiraj</h1>
 <h3 align="center">A passionate individual looking in the field of AI and Web development.</h3>
 
@@ -22,7 +23,6 @@
 <a href="https://hashnode.com/https://hashnode.com/@yogiraj28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@yogiraj28" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ch_en_u4aie20005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ch_en_u4aie20005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/yogi28bhagavatula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yogi28bhagavatula/" height="30" width="40" /></a>
-<a href="https://discord.gg/Yogiraj#3299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yogiraj#3299" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
