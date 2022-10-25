@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhagavatula Yogiraj</h1>
 <h3 align="center">A passionate individual looking in the field of AI and Web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogiraj587&label=Profile%20views&color=0e75b6&style=flat" alt="yogiraj587" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogiraj587" alt="yogiraj587" /></a> </p>
 
 - 🔭 I’m currently working on **OpenCV, ReactJS**
